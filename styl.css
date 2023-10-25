@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    font-family: 'Rubik', sans-serif;
+    /* background-image: url("https://wallpapers.com/images/hd/4k-car-3840-x-2160-background-4dh8hcuqjw7hnur1.jpg");
+    background-size: 100% 100vh; */
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#Font-1{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+input::-webkit-input-placeholder{
+    
+}
+
+
+::selection{
+    background-color: #FBB701;
+    color: white;
+}
